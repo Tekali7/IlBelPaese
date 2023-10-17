@@ -1,0 +1,7 @@
+
+/*Asterisk wildcard selector to override default styles added from the browser*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
