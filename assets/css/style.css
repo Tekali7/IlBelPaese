@@ -24,7 +24,10 @@ body{
 -----------------------Main content styles--------------------
 ------------------------------------------------------------*/
 
-#stretch{
+main{
+    display: flex;
+    flex-direction: column;
+    /*Stretch main to push footer down*/
     flex: 1 0 auto;
 }
 
