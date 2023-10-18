@@ -20,6 +20,7 @@ body{
 -----------------------Header styles--------------------------
 ------------------------------------------------------------*/
 
+/*Align navbar horizontally*/
 nav ul{
     list-style-type: none;
     display: flex;
@@ -30,7 +31,9 @@ nav li{
     margin-right: 2.5em;
 }
 
-
+nav a{
+    text-decoration: none;
+}
 
 /*------------------------------------------------------------
 -----------------------Main content styles--------------------
