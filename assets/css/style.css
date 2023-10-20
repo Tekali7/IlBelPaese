@@ -64,6 +64,10 @@ main{
 -----------------------Footer styles--------------------------
 ------------------------------------------------------------*/
 
+footer{
+    background-color: #e1c699;
+}
+
 #social-media{
     display: flex;
     justify-content: center;
