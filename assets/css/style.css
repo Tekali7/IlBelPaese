@@ -5,7 +5,7 @@
 /*Google fonts import Merriweather and Alef*/
 @import url('https://fonts.googleapis.com/css2?family=Alef:wght@400;700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
 
-/*Asterisk wildcard selector to override default styles added from the browser*/
+/*Override default "content-box" style*/
 *{
     box-sizing: border-box;
 }
@@ -28,10 +28,10 @@ h1{
 ------------------------------------------------------------*/
 
 /*Align navbar horizontally*/
-nav ul{
+#navigation{
     list-style-type: none;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
 }
 
 nav li{
