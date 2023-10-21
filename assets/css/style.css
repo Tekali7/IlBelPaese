@@ -16,18 +16,34 @@ body{
     margin: 0;
     display: flex;
     flex-direction: column;
-    background-image: url(../images/marble-background.webp);
-    background-size: cover;
 }
 
-h1, h2{
+h1{
     text-align: center;
     font-family: Merriweather, serif;
+    color: #ffffff;
+}
+
+h2{
+    text-align: center;
+    font-family: Merriweather, serif;
+    color: #000000;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
 }
 
 /*------------------------------------------------------------
 -----------------------Header styles--------------------------
 ------------------------------------------------------------*/
+
+/*Hero styles*/
+header{
+    background-image: url(../images/hero.webp);
+    background-size: cover;
+}
 
 /*Align navbar horizontally*/
 #navigation{
@@ -38,11 +54,6 @@ h1, h2{
 
 nav li{
     margin-right: 2.5em;
-}
-
-nav a{
-    text-decoration: none;
-    color: #000000;
 }
 
 .selected{
@@ -60,6 +71,8 @@ main{
     flex-direction: column;
     /*Stretch main to push footer down*/
     flex: 1 0 auto;
+    background-image: url(../images/marble-background.webp);
+    background-size: cover;
 }
 
 
@@ -70,6 +83,7 @@ main{
 
 footer{
     background-color: #e1c699;
+    height: 85px;
 }
 
 #social-media{
@@ -90,5 +104,5 @@ footer h2{
     right: 0;
     width: 100%;
     text-align: center;
-    top: 728px;
+    top: 755px;
 }
