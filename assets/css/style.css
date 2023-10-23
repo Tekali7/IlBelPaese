@@ -22,6 +22,9 @@ h1{
     text-align: center;
     font-family: Merriweather, serif;
     color: #ffffff;
+    position: relative;
+    top: 70px;
+    letter-spacing: 3px;
 }
 
 h2{
@@ -40,9 +43,12 @@ a{
 ------------------------------------------------------------*/
 
 /*Hero styles*/
-header{
+.hero{
     background-image: url(../images/hero.webp);
     background-size: cover;
+    background-position: 50% 25%;
+    background-repeat: no-repeat;
+    padding-bottom: 3em;
 }
 
 /*Align navbar horizontally*/
@@ -50,16 +56,22 @@ header{
     list-style-type: none;
     display: flex;
     justify-content: space-around;
+    background-color: #e1c699;
+    margin: 0;
+    padding: 16px;
 }
 
+
 nav li{
-    margin-right: 2.5em;
+    display: inline-block;
+    margin: 0 10px;
 }
 
 .selected{
-    border: 1px solid #000000;
-    padding: 3px 1px;
-    background-color: #e1c699;
+    border: 2px solid #000000;
+    padding: 5px 18px;
+    background-color: #dca951;
+    color: #000000;
 }
 
 /*------------------------------------------------------------
