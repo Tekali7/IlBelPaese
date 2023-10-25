@@ -118,6 +118,21 @@ main{
     font-size: 1.25em;
 }
 
+/*Table styles*/
+th{
+    font-size: 1.5em;
+}
+
+table{
+    width: 100%;
+}
+
+td, th{
+    text-align: center;
+    padding: 1rem;
+    border: 1px solid darkolivegreen;
+}
+
 /*------------------------------------------------------------
 -----------------------Footer styles--------------------------
 ------------------------------------------------------------*/
