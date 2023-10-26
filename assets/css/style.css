@@ -66,7 +66,7 @@ a{
     list-style-type: none;
     display: flex;
     justify-content: space-around;
-    background-color: #e1c699;
+    background-color: darkolivegreen;
     margin: 0;
     padding: 16px;
 }
@@ -80,7 +80,7 @@ nav li{
 .selected{
     border: 2px solid #000000;
     padding: 5px 18px;
-    background-color: #dca951;
+    background-color: tan;
     color: #000000;
 }
 
@@ -138,7 +138,7 @@ td, th{
 ------------------------------------------------------------*/
 
 footer{
-    background-color: #e1c699;
+    background-color: darkolivegreen;
     height: 85px;
 }
 
@@ -153,7 +153,7 @@ footer{
     gap: 2em;
     font-size: 34px;
     border-top:1px solid #000000;
-    background-color: #e1c699;
+    background-color: darkolivegreen;
 }
 
 footer h2{
@@ -162,4 +162,8 @@ footer h2{
     text-align: center;
     margin-bottom: 6px;
     margin-top: 6px;
+}
+
+footer a{
+    color: tan;
 }
