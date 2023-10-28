@@ -100,13 +100,20 @@ main{
 }
 
 .contain-img{
-    width: 100%;
-    max-width: 375px;
+    width: auto;
+    margin: 0 auto;
+    text-align: center;
 }
 
-.center-img{
+.style-img{
     width: 100%;
+    max-height: 600px;
     aspect-ratio: 1;
+    border: solid 5px darkolivegreen;
+}
+
+img{
+    border-radius: 12px;
 }
 
 .center-text{
@@ -163,6 +170,7 @@ footer h2{
     text-align: center;
     margin-bottom: 6px;
     margin-top: 6px;
+    color: #ffffff;
 }
 
 footer a{
