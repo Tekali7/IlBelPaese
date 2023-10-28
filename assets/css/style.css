@@ -69,6 +69,7 @@ a{
     background-color: darkolivegreen;
     margin: 0;
     padding: 16px;
+    font-size: 120%;
 }
 
 
@@ -121,9 +122,31 @@ img{
 }
 
 .text{
-    font-size: 1.25em;
+    font-size: 150%;
     text-align: justify;
     padding: 5px 20px;
+}
+
+/*Form styles*/
+label, input, textarea, button{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1rem;
+    font-family: Alef, sans-serif;
+}
+
+input, textarea{
+    padding: 5px;
+}
+
+label, input{
+    margin-bottom: 0.5em;
+}
+
+button{
+    margin-bottom: 1em;
+    margin-top: 1em;
 }
 
 /*Table styles*/
