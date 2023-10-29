@@ -202,7 +202,7 @@ footer a{
 }
 
 /*------------------------------------------------------------
------------------------Media queries > 600px------------------
+-----------------------Media query > 600px------------------
 ------------------------------------------------------------*/
 
 /*Move homepage images next to each other at screen sizes wider than 600px*/
@@ -236,10 +236,47 @@ footer a{
         min-width: 40%;
     }
 
+    .menu-h2{
+        font-size: 2rem;
+    }
+
     p{
         position: relative;
         top: 15%;
         left: -38%;
         min-width: 45%;
+    }
+
+    th{
+        font-size: 2rem;
+    }
+
+    td{
+        font-size: 1.5rem;
+    }
+}
+
+/*------------------------------------------------------------
+-----------------------Media query > 900px------------------
+------------------------------------------------------------*/
+
+@media (min-width: 900px){
+    h2{
+    font-size: 2rem;
+    }
+
+    p{
+        top: 20%;
+        font-size: 1.5rem;
+        word-spacing: 2px;
+        line-height: 35px;
+    }
+
+    th{
+        font-size: 2rem;
+    }
+
+    td{
+        font-size: 1.5rem;
     }
 }
