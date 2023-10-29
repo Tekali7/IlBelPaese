@@ -133,25 +133,40 @@ img{
 }
 
 /*Form styles*/
-label, input, textarea, button{
+input, textarea{
     display: block;
     text-align: center;
     margin: 0 auto;
     font-size: 1rem;
     font-family: 'News Cycle', sans-serif;
+    min-width: 60%;
+}
+
+label{
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    font-size: 1.3rem;
+    font-family: 'News Cycle', sans-serif;
+    font-weight: 700;
 }
 
 input, textarea{
     padding: 5px;
 }
 
-label, input{
-    margin-bottom: 0.5em;
+input{
+    margin-bottom: 2em;
 }
 
 button{
-    margin-bottom: 1em;
+    display: block;
+    text-align: center;
+    margin: 0 auto;
     margin-top: 1em;
+    margin-bottom: 1em;
+    font-size: 1.3rem;
+    font-family: 'News Cycle', sans-serif;
 }
 
 /*Table styles*/
@@ -241,6 +256,10 @@ footer a{
         max-width: 600px;
     }
 
+    h2{
+        font-size: 2rem;
+    }
+
     .index-h2{
         position: relative;
         height: 150px;
@@ -267,6 +286,10 @@ footer a{
     td{
         font-size: 1.5rem;
     }
+
+    label{
+        font-size: 2rem;
+    }
 }
 
 /*------------------------------------------------------------
@@ -275,7 +298,11 @@ footer a{
 
 @media (min-width: 900px){
     h2{
-    font-size: 2rem;
+    font-size: 2.5rem;
+    }
+
+    a{
+        font-size: 1.75rem;
     }
 
     p{
@@ -285,11 +312,24 @@ footer a{
         line-height: 35px;
     }
 
+    label{
+        font-size: 2.5rem;
+    }
+
+    input{
+        font-size: 2rem;
+    }
+
     th{
         font-size: 2rem;
     }
 
     td{
         font-size: 1.5rem;
+    }
+
+    .fa-brands,
+    .fa-solid{
+        font-size: 50px;
     }
 }
