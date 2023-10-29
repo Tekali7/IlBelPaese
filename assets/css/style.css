@@ -202,7 +202,7 @@ footer a{
 }
 
 /*------------------------------------------------------------
------------------------Media queries--------------------------
+-----------------------Media queries > 600px------------------
 ------------------------------------------------------------*/
 
 /*Move homepage images next to each other at screen sizes wider than 600px*/
@@ -227,7 +227,7 @@ footer a{
         max-width: 600px;
     }
 
-    section h2{
+    .index-h2{
         position: relative;
         height: 150px;
         top: 0px;
@@ -235,7 +235,7 @@ footer a{
         min-width: 40%;
     }
 
-    section p{
+    p{
         position: relative;
         top: 15%;
         left: -38%;
