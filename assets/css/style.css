@@ -21,6 +21,7 @@ body{
 h1{
     text-align: center;
     font-family: Merriweather, serif;
+    font-size: 3rem;
     color: #ffffff;
     position: relative;
     top: 70px;
@@ -49,6 +50,7 @@ a{
     background-position: 50% 25%;
     background-repeat: no-repeat;
     padding-bottom: 3em;
+    background-attachment: scroll;
 }
 
 .overlay{
@@ -56,7 +58,7 @@ a{
     top: 90.88px;
     left: 0;
     width: 100%;
-    height: 40px;
+    height: 5.1rem;
     background: rgb(0, 0, 0);
     background-color: rgba(0, 0, 0, 0.5);
 }
@@ -71,7 +73,6 @@ a{
     padding: 16px;
     font-size: 120%;
 }
-
 
 nav li{
     display: inline-block;
