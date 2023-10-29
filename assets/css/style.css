@@ -213,7 +213,8 @@ footer a{
 
     .flex-container{
         display: flex;
-        margin-bottom: 20px;
+        margin-bottom: 60px;
+        margin-top: 50px;
     }
 
     .contain-img{
