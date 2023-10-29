@@ -199,3 +199,45 @@ footer h2{
 footer a{
     color: tan;
 }
+
+/*------------------------------------------------------------
+-----------------------Media queries--------------------------
+------------------------------------------------------------*/
+
+/*Move homepage images next to each other at screen sizes wider than 600px*/
+@media (min-width: 600px){
+    .center-text{
+        display: flex;
+    }
+
+    .flex-container{
+        display: flex;
+        margin-bottom: 20px;
+    }
+
+    .contain-img{
+        order: -1;
+        min-width: 50%;
+        max-width: 600px;
+        margin-top: 19.92px;
+    }
+
+    .style-img{
+        max-width: 600px;
+    }
+
+    section h2{
+        position: relative;
+        height: 150px;
+        top: 0px;
+        right: -5%;
+        min-width: 40%;
+    }
+
+    section p{
+        position: relative;
+        top: 15%;
+        left: -38%;
+        min-width: 45%;
+    }
+}
