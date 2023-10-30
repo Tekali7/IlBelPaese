@@ -20,7 +20,7 @@ This project will have real word value in the near future as it will be used to 
     * Hero
     * Navigation
     * Homepage
-    * Our Menu
+    * Menu
     * Contact
     * Form
     * Footer
@@ -67,9 +67,9 @@ The navigation bar offers a quick and easy way to reach the three pages of the w
 
 The "Home" page informs the user about the restaurant to keep them on the website and to make the future customer take more interest in what the restaurant offers. This is achieved by describing the restaurants history, the menu and also the habit of only using fresh ingredients. These descriptions are decorated with images to further grow the interest of the customer.
 
-## Our Menu
+## Menu
 
-The "Our Menu" page presents a clean overview of what the restaurant offers. The page consists of four tables with various meals and drinks, imitating a handheld menu from the restaurant. The tables have a white underlay with a low opacity to provide more contrast and therefore give the user better readability of the tables contents.
+The "Menu" page presents a clean overview of what the restaurant offers. The page consists of four tables with various meals and drinks, imitating a handheld menu from the restaurant. The tables have a white underlay with a low opacity to provide more contrast and therefore give the user better readability of the tables contents.
 
 ## Contact
 
@@ -89,7 +89,7 @@ Future implementations for this website are.
 
 - A new page to give the user the opportunity to order online.
 
-- A downloadable menu in PDF format in the "Our Menu" page.
+- A downloadable menu in PDF format in the "Menu" page.
 
 - A feature to let users make an online reservation.
 
