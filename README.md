@@ -8,11 +8,11 @@ Deployed link to the website: https://tekali7.github.io/IlBelPaese/
 
 (AM I RESPONSIVE SCREENSHOT)
 
-## Purpose of this project
+# Purpose of this project
 
 This project will have real word value in the near future as it will be used to attract and inform customers. This website will be used when the future developer has learned and implemented the necessary course material.
 
-## Table of contents:
+# Table of contents:
 
 * User Demographic
 
@@ -21,6 +21,7 @@ This project will have real word value in the near future as it will be used to 
     * Homepage
     * Our Menu
     * Contact
+    * Future implementations
 
 * Technologies used
 
@@ -40,3 +41,11 @@ This project will have real word value in the near future as it will be used to 
     * Media
 
 * Credit
+
+# User Demographic
+
+The main target audience are the frequent tourists from all over the world that visit the area.  
+
+Also local customers which already know the long-standing restaurant.
+
+The website targets a wide age range, from families with children looking for a welcoming atmosphere to couples seeking a romantic dinner setting.
