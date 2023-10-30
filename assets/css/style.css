@@ -2,7 +2,7 @@
 -----------------------General styles-------------------------
 ------------------------------------------------------------*/
 
-/*Google fonts import Merriweather and Alef*/
+/*Google fonts import Merriweather and News Cycle*/
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=News+Cycle:wght@400;700&display=swap');
 
 /*Override default "content-box" style*/
@@ -31,6 +31,7 @@ h1{
 h2{
     text-align: center;
     font-family: 'Merriweather', serif;
+    font-size: 2rem;
     color: #000000;
 }
 
@@ -199,7 +200,7 @@ td, th{
 
 footer{
     background-color: darkolivegreen;
-    height: 85px;
+    height: 95px;
 }
 
 #social-media{
@@ -230,11 +231,11 @@ footer a{
 }
 
 /*------------------------------------------------------------
------------------------Media query > 600px------------------
+-----------------------Media query > 768px------------------
 ------------------------------------------------------------*/
 
 /*Move homepage images next to each other at screen sizes wider than 600px*/
-@media (min-width: 600px){
+@media (min-width: 768px){
     .center-text{
         display: flex;
     }
@@ -249,7 +250,7 @@ footer a{
         order: -1;
         min-width: 50%;
         max-width: 600px;
-        margin-top: 19.92px;
+        margin-top: 26.56px;
     }
 
     .style-img{
@@ -277,6 +278,7 @@ footer a{
         top: 15%;
         left: -38%;
         min-width: 45%;
+        margin-top: 40px;
     }
 
     th{
