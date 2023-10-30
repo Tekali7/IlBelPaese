@@ -5,10 +5,9 @@ The central location of the restaurant makes it an ideal destination for tourist
 
 Deployed link to the website: https://tekali7.github.io/IlBelPaese/
 
-## Site Overview
-Il Bel Paese is an italian restaurant in Austria, operating since its opening in 1998.
+(AM I RESPONSIVE SCREENSHOT)
 
-Am I responsive screenshot
+## Purpose of this project
+This project will have real word value in the near future as it will be used to attract and inform customers. This website will be used when the future developer has learned and implemented the necessary course material.
+
 ## Table of contents:
-
-
