@@ -26,7 +26,7 @@ This project will have real word value in the near future as it will be used to 
     * Footer
     * Future implementations
 
-* Technologies used
+* Technology
 
 * Design
 
@@ -94,3 +94,10 @@ Future implementations for this website are.
 - A feature to let users make an online reservation.
 
 - Add content to inform users about the possibility to buy gift cards.
+
+# Technology
+
+- IDE: Visual Studio Code
+- Repository: [GitHub](<https://github.com/Tekali7/IlBelPaese>)
+- Image converter: [Convertio](<https://convertio.co/de/jpg-webp/>)
+- Favicon generator: [Favicon](<https://favicon.io/>)
