@@ -28,7 +28,7 @@ This project will have real word value in the near future as it will be used to 
 
 * Technology
 
-* Design
+* Typography and color scheme
 
 * Testing
 
@@ -101,3 +101,10 @@ Future implementations for this website are.
 - Repository: [GitHub](<https://github.com/Tekali7/IlBelPaese>)
 - Image converter: [Convertio](<https://convertio.co/de/jpg-webp/>)
 - Favicon generator: [Favicon](<https://favicon.io/>)
+
+# Typography and color scheme
+
+The typography was chosen because it gives the user a calm and pleasant reading experience with rounded and clean letters.  
+The fonts Merriweather and News Cycle from [Google fonts](<https://fonts.google.com/>) have been applied to this website.
+
+The color scheme was chosen to represent italys flag colors, except for the red in it. The green from the navigation bar and the footer reminds the user of the countrys beautiful landscape and the earthy tan color in the selected-page button and the [fontawesome](<https://fontawesome.com/>) icons compliment this further. The white marble background reminds the user of italys history and gives the website a noble touch.
