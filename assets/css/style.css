@@ -74,7 +74,7 @@ a{
     background-color: darkolivegreen;
     margin: 0;
     padding: 16px;
-    font-size: 120%;
+    font-size: 1.5rem;
 }
 
 nav li{
@@ -273,6 +273,10 @@ footer a{
         font-size: 2rem;
     }
 
+    #navigation{
+        font-size: 2rem;
+    }
+
     p{
         position: relative;
         top: 15%;
@@ -292,6 +296,11 @@ footer a{
     label{
         font-size: 2rem;
     }
+
+    .fa-brands,
+    .fa-solid{
+        font-size: 3rem;
+    }
 }
 
 /*------------------------------------------------------------
@@ -299,12 +308,22 @@ footer a{
 ------------------------------------------------------------*/
 
 @media (min-width: 900px){
+    h1{
+        top: 115px;
+    }
+    
     h2{
     font-size: 2.5rem;
     }
 
     a{
         font-size: 1.75rem;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+
+    .overlay{
+        top: 182px;
     }
 
     p{
@@ -315,6 +334,10 @@ footer a{
     }
 
     label{
+        font-size: 2.5rem;
+    }
+
+    button{
         font-size: 2.5rem;
     }
 
@@ -332,6 +355,62 @@ footer a{
 
     .fa-brands,
     .fa-solid{
-        font-size: 50px;
+        font-size: 4rem;
+    }
+}
+
+/*------------------------------------------------------------
+-----------------------Media query > 1440px------------------
+------------------------------------------------------------*/
+
+@media (min-width: 1440px){
+    h1{
+        font-size: 4rem;
+        top: 143px;
+    }
+
+    a{
+        font-size: 2rem;
+        padding-left: 80px;
+        padding-right: 80px;
+    }
+
+    .overlay{
+        top: 236px;
+    }
+
+    h2{
+        font-size: 3.5rem;
+    }
+
+    .menu-h2{
+        font-size: 3.5rem;
+    }
+
+    .text{
+        padding-top: 80px;
+        font-size: 2rem;
+        line-height: 55px;
+    }
+
+    th{
+        font-size: 2.5rem;
+    }
+
+    td{
+        font-size: 2rem;
+    }
+
+    label{
+        font-size: 3rem;
+    }
+
+    button{
+        font-size: 3rem;
+    }
+
+    .fa-brands,
+    .fa-solid{
+        font-size: 5rem;
     }
 }
