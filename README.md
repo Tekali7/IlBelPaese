@@ -16,6 +16,12 @@ This project will have real word value in the near future as it will be used to 
 
 * User Demographic
 
+* User Experience
+    * User stories
+        * First Time Visitor Goals
+        * Returning Visitor Goals
+        * Frequent User Goals
+
 * Features
     * Hero
     * Navigation
@@ -57,9 +63,39 @@ Also local customers which already know the long-standing restaurant.
 
 The website targets a wide age range, from families with children looking for a welcoming atmosphere to couples seeking a romantic dinner setting.
 
+# User Experience
+## User stories
+
+### A. First time visitor goals
+
+- As a first time visitor, I want to easily understand the main purpose of the website and learn more about the organisation.
+
+- As a first time visitor, I want to be able to easily navigate throughout the website to find content.
+
+- As a first time visitor, I want to be able to easily navigate to and view a menu of meals and drinks.
+
+### B. Returning visitor goals
+
+- As a returning visitor, I want to be able to access and view the menu quickly and easily.
+
+- As a returning visitor, I want to be able to check opening hours quickly and easily.
+
+- As a returning visitor, I want to be able to contact the organisation to give feedback or ask questions.
+
+### C. Frequent user goals
+
+- As a frequent user, I want to be able to check new meals and drinks the business offers.
+
+- As a frequent user, I want to be able to contact the organisation to give feedback, ask questions or follow-up on existing communications.
+
+
 # Features
 
 The website consists of three pages with numerous features which offer the user a pleasant website experience.
+
+## Hero
+
+The hero image showcases a pizza so that the user instantly knows what the theme of the website is about. The image is responsive and therefore changes its size on different screen sizes.
 
 ## Navigation
 
