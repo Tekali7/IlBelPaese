@@ -222,10 +222,13 @@ footer h2{
     margin-bottom: 6px;
     margin-top: 6px;
     color: #ffffff;
+    font-size: 1.5rem;
 }
 
-footer a{
+.fa-brands,
+.fa-solid{
     color: tan;
+    font-size: 2rem;
 }
 
 /*------------------------------------------------------------
@@ -272,7 +275,11 @@ footer a{
         font-size: 2.25rem;
     }
 
-    p{
+    .contact-h2{
+        font-size: 2rem;
+    }
+
+    .text{
         position: relative;
         top: 15%;
         left: -38%;
@@ -299,6 +306,10 @@ footer a{
     input,
     textarea{
         font-size:1.5rem
+    }
+
+    footer h2{
+        font-size: 2.5rem;
     }
 
     .fa-brands,
@@ -328,6 +339,10 @@ footer a{
         font-size: 2.5rem;
     }
 
+    .contact-h2{
+        font-size: 2.25rem;
+    }
+
     a{
         font-size: 2.25rem;
         padding-left: 60px;
@@ -338,9 +353,9 @@ footer a{
         top: 209px;
     }
 
-    p{
+    .text{
         top: 20%;
-        font-size: 1.5rem;
+        font-size: 1.75rem;
         word-spacing: 2px;
         line-height: 35px;
     }
@@ -356,6 +371,10 @@ footer a{
     input,
     textarea{
         font-size: 2rem;
+    }
+
+    footer h2{
+        font-size: 3.25rem;
     }
 
     .fa-brands,
@@ -400,9 +419,13 @@ footer a{
         font-size: 3.5rem;
     }
 
+    .contact-h2{
+        font-size: 3rem;
+    }
+
     .text{
         padding-top: 80px;
-        font-size: 2rem;
+        font-size: 2.25rem;
         line-height: 55px;
     }
 
@@ -427,8 +450,62 @@ footer a{
         font-size: 2.5rem;
     }
 
+    footer h2{
+        font-size: 4rem;
+    }
+
     .fa-brands,
     .fa-solid{
         font-size: 5rem;
+    }
+}
+
+/*------------------------------------------------------------
+-----------------------Media query >1680px--------------------
+------------------------------------------------------------*/
+@media (min-width: 1680px){
+    h1{
+        font-size: 6rem;
+        top: 180px
+    }
+
+    .index-h2{
+        font-size: 4rem;
+        position: relative;
+        height: 150px;
+        top: 0px;
+        right: -3%;
+        min-width: 40%;
+    }
+
+    .overlay{
+        top: 311px;
+        height: 9.1rem;
+    }
+
+    a{
+        font-size: 3rem;
+    }
+
+    .text{
+        position: relative;
+        font-size: 2.5rem;
+        top: 20%;
+        left: -40%;
+        min-width: 45%;
+        margin-top: 40px;
+    }
+
+    .menu-h2{
+        font-size: 3.5rem;
+    }
+
+    .contact-h2{
+        font-size: 3.5rem;
+    }
+    
+    .fa-brands,
+    .fa-solid{
+        font-size: 5.75rem;
     }
 }
