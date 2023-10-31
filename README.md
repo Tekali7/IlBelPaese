@@ -6,7 +6,7 @@ The central location of the restaurant makes it an ideal destination for tourist
 
 Deployed link to the website: https://tekali7.github.io/IlBelPaese/
 
-(AM I RESPONSIVE SCREENSHOT)
+![Responsitivity example](assets/readme-imgs/am-i-responsive.webp)
 
 # Purpose of this project
 
