@@ -264,6 +264,12 @@ Testing has been carried out on the following browsers:
 
 ## Fixed Bugs
 
+- Bug: Cursor starts to the left or middle of the textarea element when clicked.
+
+    - Attempted fixes with no success: Remove margins, remove paddings.
+
+    - Working solution: Remove whitespace between opening and closing textarea tag.
+
 # Deployment
 ## How to Deploy
 
