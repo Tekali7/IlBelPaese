@@ -43,11 +43,15 @@ This project will have real word value in the near future as it will be used to 
         * W3C HTML Validator
         * W3C CSS Validator
     * Lighthouse Testing
+    * Manual Testing
+    * Device Testing
+    * Browser Compatibility
+    * Fixed Bugs
 
 * Deployment
-    * How to deploy
-    * How to fork
-    * How to clone
+    * How to Deploy
+    * How to Fork
+    * How to Clone
 
 * Content
     * Text
@@ -164,17 +168,53 @@ The validation results are displayed with a snippet of the code to indicate thei
 ### [HTML Validator](<https://validator.w3.org/#validate_by_uri>)
 
 - Validator result for index.html
+![Validation result index page](assets/readme-imgs/w3c-validation-index-page.webp)
+
 - Validator result for menu.html
+![Validation result menu page](assets/readme-imgs/w3c-validation-menu-page.webp)
+
 - Validator result for contact.html
+![Validation result contact page](assets/readme-imgs/w3c-validation-contact-page.webp)
 
 ### [CSS Validator](<https://jigsaw.w3.org/css-validator/>)
 
 - Validator result for style.css
+![Validator result stylesheet](assets/readme-imgs/w3c-validation-stylesheet.webp)
+
+- Validator warning
+
+This warning is due to the import of the Google fonts.
+![Validator warning stylesheet](assets/readme-imgs/w3c-css-validator-warning.webp)
 
 ## Lighthouse Testing
 
+The website was tested using Lighthouse in Chrome DevTools throughout the development to check performance, accessibiltiy, best practices and SEO. The final test on Lighthouse was run on incognito mode.
+
+- Lighthouse result for index.html
+![Lighthouse result index page](assets/readme-imgs/lighthouse-result-index-page.webp)
+
+- Lighthouse result for menu.html
+![Lighthouse result menu page](assets/readme-imgs/lighthouse-result-menu-page.webp)
+
+- Lighthouse result for contact.html
+![Lighthouse result contact page](assets/readme-imgs/lighthouse-result-contact-page.webp)
+
+## Manual Testing
+
+## Device Testing
+
+## Browser Compatibility
+
+- Testing has been carried out on the following browsers:
+    - Chrome Version 118.0.5993.117/118
+    - Safari Version 17.1
+    - Edge Version 118.0.2088.76
+    - Firefox Version 119.0
+
+## Fixed Bugs
+
 # Deployment
-## How to deploy
+## How to Deploy
 
 Website deployment is the process of making a website live and accessible on the internet for people to visit.
 
@@ -186,7 +226,7 @@ Website deployment is the process of making a website live and accessible on the
 6. It may not go live for a few minutes, refresh the page to update the link.
 7. Once deployed, the live website will automatically update when any changes are pushed to the main branch.
 
-## How to fork
+## How to Fork
 
 Forking allows you to create a copy of the original repository in your own GitHub account. This enables you to make changes to the code without affecting the original code.
 
@@ -195,7 +235,7 @@ Forking allows you to create a copy of the original repository in your own GitHu
 3. Select the "Fork" button near the top-right.
 4. You should now have a new copy of the original repository in your own GitHub account.
 
-## How to clone
+## How to Clone
 
 Clowning allows you to make an exact copy of a code repository, usually for collaboration or to work on different features independently.
 
