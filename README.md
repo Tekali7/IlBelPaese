@@ -17,6 +17,7 @@ This project will have real word value in the near future as it will be used to 
 * User Demographic
 
 * Features
+    * Hero
     * Navigation
     * Homepage
     * Menu
