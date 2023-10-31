@@ -165,7 +165,10 @@ Future implementations for this website are.
 The typography was chosen because it gives the user a calm and pleasant reading experience with rounded and clean letters.  
 The fonts Merriweather and News Cycle from [Google fonts](<https://fonts.google.com/>) have been applied to this website.
 
-The color scheme was chosen to represent italys flag colors, except for the red in it. The green from the navigation bar and the footer reminds the user of the countrys beautiful landscape and the earthy tan color in the selected-page button and the [fontawesome](<https://fontawesome.com/>) icons compliment this further. The white marble background reminds the user of italys history and gives the website a noble touch.
+The color scheme was chosen to represent italys flag colors, except for the red in it. The green from the navigation bar and the footer reminds the user of the countrys beautiful landscape and the earthy tan color in the selected-page button and the [fontawesome](<https://fontawesome.com/>) icons compliment this further. The white marble background reminds the user of italys history and gives the website a noble touch. The WCAG color contrast checker extension for Chrome was used to determine fitting colors.
+
+![Color contrast checker top](assets/readme-imgs/color-contrast-checker-top.webp)
+![Color contrast checker bottom](assets/readme-imgs/color-contrast-checker-bottom.webp)
 
 # Testing
 ## Validator Testing
