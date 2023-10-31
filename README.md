@@ -43,8 +43,8 @@ This project will have real word value in the near future as it will be used to 
 
 * [Testing](https://github.com/Tekali7/IlBelPaese#testing)
     * [Validator Testing](https://github.com/Tekali7/IlBelPaese#validator-testing)
-        * [W3C HTML Validator]()
-        * [W3C CSS Validator]()
+        * [W3C HTML Validator](https://github.com/Tekali7/IlBelPaese#html-validator)
+        * [W3C CSS Validator](https://github.com/Tekali7/IlBelPaese#css-validator)
     * [Lighthouse Testing](https://github.com/Tekali7/IlBelPaese#lighthouse-testing)
     * [Manual Testing](https://github.com/Tekali7/IlBelPaese#manual-testing)
         * [Features Testing](https://github.com/Tekali7/IlBelPaese#features-testing)
@@ -57,11 +57,12 @@ This project will have real word value in the near future as it will be used to 
     * [How to Fork](https://github.com/Tekali7/IlBelPaese#how-to-fork)
     * [How to Clone](https://github.com/Tekali7/IlBelPaese#how-to-clone)
 
-* Content
-    * Text
+* Credits
+    * Content
+    * Code
     * Media
 
-* Credit
+* Acknowledgments
 
 # User Demographic
 
@@ -196,6 +197,7 @@ The color scheme was chosen to represent italys flag colors, except for the red 
 
 ## Validator Testing
 
+The [W3C Markup Validator](https://validator.w3.org/) and [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) were used to validate the project.
 The validation results are displayed with a snippet of the code to indicate their association with the respective page.
 
 ### HTML Validator
@@ -311,7 +313,7 @@ Website deployment is the process of making a website live and accessible on the
 
 Forking allows you to create a copy of the original repository in your own GitHub account. This enables you to make changes to the code without affecting the original code.
 
-1. Log into GitHub
+1. Log into GitHub.
 2. Locate repository and select the repository.
 3. Select the "Fork" button near the top-right.
 4. You should now have a new copy of the original repository in your own GitHub account.
@@ -320,10 +322,44 @@ Forking allows you to create a copy of the original repository in your own GitHu
 
 Clowning allows you to make an exact copy of a code repository, usually for collaboration or to work on different features independently.
 
-1. Log into GitHub
+1. Log into GitHub.
 2. Locate repository and select the repository.
 3. Click the green "<> Code" button.
 4. If you want to clone using HTTPS, select the copy button in the HTTPS menu.
-5. Open Git Bash
+5. Open Git Bash.
 6. Change the current working directory to the location where you want your cloned directory to be.
 7. Type "git clone", and then paste the URL you copied earlier and press "Enter".
+
+# Credits
+
+## Content
+
+- The paragraphs of the home page were generated with [ChatGPT](<https://chat.openai.com/>)
+
+- All other content was written by the developer
+
+## Code
+
+- The markdown tables were generated with the help of [Tabletomarkdown](<https://tabletomarkdown.com/convert-spreadsheet-to-markdown>)
+
+- Code on how to implement flex boxes were based on instructions from [YouTube Flexbox Tutorial](<https://www.youtube.com/watch?v=phWxA89Dy94&t=298s>)
+
+- Code for the number-opening telephone icon was taught to me by [David Calikes](<https://github.com/davidcalikes-codeinstitute>)
+
+- The code for the navigation bar, Google Fonts import and Fontawesome icons import was adapted from the [Love Running Walkthrough Project](<https://www.youtube.com/watch?v=LMmlg0ss2SE&t=127s>)
+
+## Media
+
+- The hero image was found on [creativefabrica](https://www.creativefabrica.com/).
+
+- The marble background image was found on [pexels](https://www.pexels.com/).
+
+- The food image was found on [pexels](https://www.pexels.com/).
+
+- The restaurant entrance image was provided by the restaurant.
+
+# Acknowledgments
+
+- Many thanks to Brian Macharia for always finding time for me and this project. And for the good feedback on how to improve my website as well as providing me with resources and websites to help with coding and testing.
+
+- Many thanks to David Calikes for always being available for when I have a question about my code or the project itself. And also for giving me inspiration and ideas to implement into the project, like the telephone icon or the green color for the navigation bar and marble background to represent italys flag.
