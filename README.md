@@ -100,30 +100,37 @@ The website consists of three pages with numerous features which offer the user 
 ## Hero
 
 The hero image showcases a pizza so that the user instantly knows what the theme of the website is about. The image is responsive and therefore changes its size on different screen sizes.
+![Hero](assets/readme-imgs/hero.webp)
 
 ## Navigation
 
 The navigation bar offers a quick and easy way to reach the three pages of the website, it can be found on the upper part of every page. It also shows which page the user is currently on through the buttons of the navigation bar. The selected page button will distinguish itself from the other two buttons through colors and a box around it.
+![Navigation](assets/readme-imgs/navigation.webp)
 
 ## Homepage
 
 The "Home" page informs the user about the restaurant to keep them on the website and to make the future customer take more interest in what the restaurant offers. This is achieved by describing the restaurants history, the menu and also the habit of only using fresh ingredients. These descriptions are decorated with images to further grow the interest of the customer.
+![Homepage](assets/readme-imgs/homepage.webp)
 
 ## Menu
 
 The "Menu" page presents a clean overview of what the restaurant offers. The page consists of four tables with various meals and drinks, imitating a handheld menu from the restaurant. The tables have a white underlay with a low opacity to provide more contrast and therefore give the user better readability of the tables contents.
+![Menu](assets/readme-imgs/menu.webp)
 
 ## Contact
 
 The "Contact" page informs the user of the opening hours of the restaurant. The hours are presented with a table, showing the opening hours for each day of the week in a horizontal line. This table also has a white underlay with low opacity to provide more contrast for the user.
+![Contact](assets/readme-imgs/contact.webp)
 
 ## Form
 
 The form is a feature in the "Contact" page. It gives the website user an opportunity to give the restaurant feedback, ask a question or to request something. The form consists of three input areas for the name of the user, the E-Mail Address and their message. The E-Mail Address allows the restaurant to thank the user for their feedback or to answer their questions. The message input area is slightly larger than the other input areas as this allows the user to see more of their text while writing.
+![Form](assets/readme-imgs/form.webp)
 
 ## Footer
 
 The footer consists of a heading, informing the user of the existing social medias of the restaurant. Under the heading are three icons with the according links. Two of these icons take the user to the restaurants real facebook or instagram page. The icon with the phone gives the user the opportunity to call the restaurant without the user having to manually type the restaurants real phone number.
+![Footer](assets/readme-imgs/footer.webp)
 
 ## Future implementations
 
