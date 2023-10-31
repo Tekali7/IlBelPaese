@@ -126,7 +126,7 @@ img{
 }
 
 .text{
-    font-size: 150%;
+    font-size: 1.5rem;
     font-family: 'News Cycle', sans-serif;
     font-weight: 700;
     text-align: justify;
@@ -169,7 +169,7 @@ button{
 
 /*Table styles*/
 th{
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 table{
