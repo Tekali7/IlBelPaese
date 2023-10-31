@@ -1,6 +1,6 @@
 # Il Bel Paese
 
-A website here to provide information about an italian restaurant based in Austria, Schruns.
+A website here to provide information about an Italian restaurant based in Austria, Schruns.
 
 The central location of the restaurant makes it an ideal destination for tourist but also for the locals alike. The restaurant is being loved by customers since its opening in 1998, due to the tasty italian meals made with authenticity and love.
 
@@ -14,7 +14,7 @@ This project will have real word value in the near future as it will be used to 
 
 # Table of contents:
 
-* [User Demographic](https://github.com/Tekali7/IlBelPaese#user-demographic)
+* [User Demographic](https://github.com/Tekali7/IlBelPaese#user-demographics)
 
 * [User Experience](https://github.com/Tekali7/IlBelPaese#user-experience)
     * [User stories](https://github.com/Tekali7/IlBelPaese#user-stories)
@@ -70,7 +70,7 @@ The main target audience are the frequent tourists from all over the world that 
 
 Also local customers which already know the long-standing restaurant.
 
-The website targets a wide age range, from families with children looking for a welcoming atmosphere to couples seeking a romantic dinner setting.
+The website targets a wide range of age groups, from families with children looking for a welcoming atmosphere to couples seeking a romantic dinner setting.
 
 # User Experience
 
@@ -142,7 +142,7 @@ The footer consists of a heading, informing the user of the existing social medi
 
 Future implementations for this website are.
 
-- A new page to give the user the opportunity to order online.
+- A new page to allow users to order online.
 
 - A downloadable menu in PDF format in the "Menu" page.
 
@@ -177,7 +177,7 @@ The fonts Merriweather and News Cycle from [Google fonts](<https://fonts.google.
 
 ## Color scheme
 
-The color scheme was chosen to represent italys flag colors, except for the red in it. The green from the navigation bar and the footer reminds the user of the countrys beautiful landscape and the earthy tan color in the selected-page button and the [fontawesome](<https://fontawesome.com/>) icons compliment this further. The white marble background reminds the user of italys history and gives the website a noble touch. The WCAG color contrast checker extension for Chrome was used to determine fitting colors.
+The color scheme was chosen to represent Italy's flag colors, except for the red in it. The green from the navigation bar and the footer reminds the user of the countrys beautiful landscape and the earthy tan color in the selected-page button and the [fontawesome](<https://fontawesome.com/>) icons compliment this further. The white marble background reminds the user of italys history and gives the website a noble touch. The WCAG color contrast checker extension for Chrome was used to determine fitting colors.
 
 ![Color contrast checker top](assets/readme-imgs/color-contrast-checker-top.webp)
 ![Color contrast checker bottom](assets/readme-imgs/color-contrast-checker-bottom.webp)
@@ -320,7 +320,7 @@ Forking allows you to create a copy of the original repository in your own GitHu
 
 ## How to Clone
 
-Clowning allows you to make an exact copy of a code repository, usually for collaboration or to work on different features independently.
+Cloning allows you to make an exact copy of a code repository, usually for collaboration or to work on different features independently.
 
 1. Log into GitHub.
 2. Locate repository and select the repository.
