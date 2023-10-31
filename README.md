@@ -44,8 +44,9 @@ This project will have real word value in the near future as it will be used to 
         * W3C CSS Validator
     * Lighthouse Testing
     * Manual Testing
-    * Device Testing
-    * Browser Compatibility
+        * Features Testing
+        * Device Testing
+        * Browser Compatibility
     * Fixed Bugs
 
 * Deployment
@@ -210,16 +211,56 @@ The website was tested using Lighthouse in Chrome DevTools throughout the develo
 ![Lighthouse result contact page](assets/readme-imgs/lighthouse-result-contact-page.webp)
 
 ## Manual Testing
+### Features Testing
 
-## Device Testing
+#### Header
 
-## Browser Compatibility
+| Test Label | Test Action           | Expected Outcome | Test Outcome |
+| ---------- | --------------------- | ---------------- | ------------ |
+| Header     | Click on Header Title | Open Home page   | PASS         |
 
-- Testing has been carried out on the following browsers:
-    - Chrome Version 118.0.5993.117/118
-    - Safari Version 17.1
-    - Edge Version 118.0.2088.76
-    - Firefox Version 119.0
+#### Navigation
+
+| Test Label                | Test Action             | Expected Outcome  | Test Outcome |
+| ------------------------- | ----------------------- | ----------------- | ------------ |
+| Navigation Home Button    | Click on Home Button    | Open Home page    | PASS         |
+| Navigation Menu Button    | Click on Menu Button    | Open Menu page    | PASS         |
+| Navigation Contact Button | Click on Contact Button | Open Contact page | PASS         |
+
+#### Form
+
+| Test Label                       | Test Action             | Expected Outcome                           | Test Outcome |
+| -------------------------------- | ----------------------- | ------------------------------------------ | ------------ |
+| Form Full Name + Email + Message | Write text and email    | Text appears to the left with padding      | PASS         |
+| Form Email Input Field           | Write text only         | Show error message that '@' is missing     | PASS         |
+| Form Full Name + Email           | Write name and email    | Show error message that message is missing | PASS         |
+| Form Full Name + Your Message    | Write name and message  | Show error message that email is missing   | PASS         |
+| Form Email + Your Message        | Write email and message | Show error message that name is missing    | PASS         |
+| Form Send Button                 | Click on Send Button    | Show error message if other fields empty   | PASS         |
+
+#### Footer
+
+| Test Label            | Test Action             | Expected Outcome                     | Test Outcome |
+| --------------------- | ----------------------- | ------------------------------------ | ------------ |
+| Footer Facebook Icon  | Click on Facebook Icon  | Open Facebook in new page            | PASS         |
+| Footer Instagram Icon | Click on Instagram Icon | Open Instagram in new page           | PASS         |
+| Footer Telephone Icon | Click on Telephone Icon | Open Phone App with number on mobile | PASS         |
+
+### Device Testing
+
+Functionality, links, layout, and responsiveness were tested on the following devices and screens without any issues:
+- Lenovo Monitor 2560px x 1440px
+- Samsung Monitor 1920px x 1080px
+- Samsung Galaxy S9 1440px x 2960px
+- iPhone 11 1792px x 828px
+
+### Browser Compatibility
+
+Testing has been carried out on the following browsers:
+- Chrome Version 118.0.5993.117/118
+- Safari Version 17.1
+- Edge Version 118.0.2088.76
+- Firefox Version 119.0
 
 ## Fixed Bugs
 
