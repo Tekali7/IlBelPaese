@@ -503,9 +503,17 @@ footer h2{
     .contact-h2{
         font-size: 3.5rem;
     }
-    
+
     .fa-brands,
     .fa-solid{
         font-size: 5.75rem;
+    }
+
+    th{
+        font-size: 3rem;
+    }
+
+    td{
+        font-size: 2.5rem;
     }
 }
