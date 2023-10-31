@@ -32,13 +32,12 @@ This project will have real word value in the near future as it will be used to 
 * Typography and color scheme
 
 * Testing
+    * Validator Testing
+        * W3C HTML Validator
+        * W3C CSS Validator
+    * Lighthouse Testing
 
-* Validators and Lighthouse Testing
-    * W3C HTML Validator
-    * W3C Css Validator
-    * Lighthouse Test
-
-* Development and Deployment
+* Deployment
 
 * Content
     * Text
@@ -116,3 +115,18 @@ The typography was chosen because it gives the user a calm and pleasant reading 
 The fonts Merriweather and News Cycle from [Google fonts](<https://fonts.google.com/>) have been applied to this website.
 
 The color scheme was chosen to represent italys flag colors, except for the red in it. The green from the navigation bar and the footer reminds the user of the countrys beautiful landscape and the earthy tan color in the selected-page button and the [fontawesome](<https://fontawesome.com/>) icons compliment this further. The white marble background reminds the user of italys history and gives the website a noble touch.
+
+# Testing
+## Validator Testing
+
+The validation results are displayed with a snippet of the code to indicate their association with the respective page.
+
+### [HTML Validator](<https://validator.w3.org/#validate_by_uri>)
+
+- Validator result for index.html
+- Validator result for menu.html
+- Validator result for contact.html
+
+### [CSS Validator](<https://jigsaw.w3.org/css-validator/>)
+
+- Validator result for style.css
