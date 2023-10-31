@@ -57,14 +57,14 @@ This project will have real word value in the near future as it will be used to 
     * [How to Fork](https://github.com/Tekali7/IlBelPaese#how-to-fork)
     * [How to Clone](https://github.com/Tekali7/IlBelPaese#how-to-clone)
 
-* Credits
-    * Content
-    * Code
-    * Media
+* [Credits](https://github.com/Tekali7/IlBelPaese#credits)
+    * [Content](https://github.com/Tekali7/IlBelPaese#content)
+    * [Code](https://github.com/Tekali7/IlBelPaese#code)
+    * [Media](https://github.com/Tekali7/IlBelPaese#media)
 
-* Acknowledgments
+* [Acknowledgments](https://github.com/Tekali7/IlBelPaese#acknowledgments)
 
-# User Demographic
+# User Demographics
 
 The main target audience are the frequent tourists from all over the world that visit the area.  
 
