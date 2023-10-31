@@ -36,7 +36,7 @@ This project will have real word value in the near future as it will be used to 
     * Languages
     * Frameworks, Libraries and Programs
 
-* Typography and color scheme
+* Typography, Color scheme and Wireframes
 
 * Testing
     * Validator Testing
@@ -69,6 +69,7 @@ Also local customers which already know the long-standing restaurant.
 The website targets a wide age range, from families with children looking for a welcoming atmosphere to couples seeking a romantic dinner setting.
 
 # User Experience
+
 ## User stories
 
 ### A. First time visitor goals
@@ -146,6 +147,7 @@ Future implementations for this website are.
 - Add content to inform users about the possibility to buy gift cards.
 
 # Technology
+
 ## Languages
 
 - HTML5
@@ -161,17 +163,33 @@ Future implementations for this website are.
 - Wireframe: [Balsamiq](<https://balsamiq.com/>)
 - Fonts: [Google Fonts](<https://fonts.google.com/>)
 
-# Typography and color scheme
+# Typography, Color scheme and Wireframes
+
+## Typography
 
 The typography was chosen because it gives the user a calm and pleasant reading experience with rounded and clean letters.  
 The fonts Merriweather and News Cycle from [Google fonts](<https://fonts.google.com/>) have been applied to this website.
+
+## Color scheme
 
 The color scheme was chosen to represent italys flag colors, except for the red in it. The green from the navigation bar and the footer reminds the user of the countrys beautiful landscape and the earthy tan color in the selected-page button and the [fontawesome](<https://fontawesome.com/>) icons compliment this further. The white marble background reminds the user of italys history and gives the website a noble touch. The WCAG color contrast checker extension for Chrome was used to determine fitting colors.
 
 ![Color contrast checker top](assets/readme-imgs/color-contrast-checker-top.webp)
 ![Color contrast checker bottom](assets/readme-imgs/color-contrast-checker-bottom.webp)
 
+## Wireframes
+
+- Home Page Wireframes
+![Home Page Wireframes](assets/readme-imgs/home-page-wireframe.webp)
+
+- Menu Page Wireframes
+![Menu Page Wireframes](assets/readme-imgs/menu-page-wireframe.webp)
+
+- Contact Page Wireframes
+![Contact Page Wireframes](assets/readme-imgs/contact-page-wireframe.webp)
+
 # Testing
+
 ## Validator Testing
 
 The validation results are displayed with a snippet of the code to indicate their association with the respective page.
@@ -211,6 +229,7 @@ The website was tested using Lighthouse in Chrome DevTools throughout the develo
 ![Lighthouse result contact page](assets/readme-imgs/lighthouse-result-contact-page.webp)
 
 ## Manual Testing
+
 ### Features Testing
 
 #### Header
@@ -271,6 +290,7 @@ Testing has been carried out on the following browsers:
     - Working solution: Remove whitespace between opening and closing textarea tag.
 
 # Deployment
+
 ## How to Deploy
 
 Website deployment is the process of making a website live and accessible on the internet for people to visit.
