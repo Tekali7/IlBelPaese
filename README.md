@@ -17,7 +17,6 @@ This project will have real word value in the near future as it will be used to 
 * User Demographic
 
 * Features
-    * Hero
     * Navigation
     * Homepage
     * Menu
@@ -27,6 +26,8 @@ This project will have real word value in the near future as it will be used to 
     * Future implementations
 
 * Technology
+    * Languages
+    * Frameworks, Libraries and Programs
 
 * Typography and color scheme
 
@@ -56,8 +57,6 @@ The website targets a wide age range, from families with children looking for a 
 # Features
 
 The website consists of three pages with numerous features which offer the user a pleasant website experience.
-
-## Hero
 
 ## Navigation
 
@@ -96,11 +95,20 @@ Future implementations for this website are.
 - Add content to inform users about the possibility to buy gift cards.
 
 # Technology
+## Languages
 
-- IDE: Visual Studio Code
+- HTML5
+- CSS3
+
+## Frameworks, Libraries and Programs
+
+- IDE: [Visual Studio Code](<https://code.visualstudio.com/>)
 - Repository: [GitHub](<https://github.com/Tekali7/IlBelPaese>)
 - Image converter: [Convertio](<https://convertio.co/de/jpg-webp/>)
+- Image compression: [Tinypng](<https://tinypng.com/>)
 - Favicon generator: [Favicon](<https://favicon.io/>)
+- Wireframe: [Balsamiq](<https://balsamiq.com/>)
+- Fonts: [Google Fonts](<https://fonts.google.com/>)
 
 # Typography and color scheme
 
