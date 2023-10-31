@@ -31,13 +31,14 @@ h1{
 h2{
     text-align: center;
     font-family: 'Merriweather', serif;
-    font-size: 2rem;
+    font-size: 1.75rem;
     color: #000000;
 }
 
 a{
     color: #ffffff;
     text-decoration: none;
+    font-size: 1.75rem;
     font-family: 'News Cycle', sans-serif;
     font-weight: 700;
 }
@@ -231,7 +232,7 @@ footer a{
 -----------------------Media query > 768px------------------
 ------------------------------------------------------------*/
 
-/*Move homepage images next to each other at screen sizes wider than 600px*/
+/*Move homepage images next to each other at screen sizes wider than 768px*/
 @media (min-width: 768px){
     .center-text{
         display: flex;
@@ -254,11 +255,12 @@ footer a{
         max-width: 600px;
     }
 
-    h2{
+    a{
         font-size: 2rem;
     }
 
     .index-h2{
+        font-size: 2rem;
         position: relative;
         height: 150px;
         top: 0px;
@@ -267,11 +269,7 @@ footer a{
     }
 
     .menu-h2{
-        font-size: 2rem;
-    }
-
-    #navigation{
-        font-size: 2rem;
+        font-size: 2.25rem;
     }
 
     p{
@@ -315,21 +313,29 @@ footer a{
 
 @media (min-width: 900px){
     h1{
-        top: 115px;
+        top: 130px;
     }
     
     h2{
-    font-size: 2.5rem;
+    font-size: 2.25rem;
+    }
+
+    .index-h2{
+        font-size: 2.25rem;
+    }
+
+    .menu-h2{
+        font-size: 2.5rem;
     }
 
     a{
-        font-size: 1.75rem;
+        font-size: 2.25rem;
         padding-left: 60px;
         padding-right: 60px;
     }
 
     .overlay{
-        top: 182px;
+        top: 209px;
     }
 
     p{
@@ -373,21 +379,21 @@ footer a{
 @media (min-width: 1440px){
     h1{
         font-size: 4rem;
-        top: 143px;
+        top: 159px;
+    }
+
+    .index-h2{
+        font-size: 2.5rem;
     }
 
     a{
-        font-size: 2rem;
+        font-size: 2.5rem;
         padding-left: 80px;
         padding-right: 80px;
     }
 
     .overlay{
-        top: 236px;
-    }
-
-    h2{
-        font-size: 3.5rem;
+        top: 265px;
     }
 
     .menu-h2{
