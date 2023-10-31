@@ -38,6 +38,9 @@ This project will have real word value in the near future as it will be used to 
     * Lighthouse Testing
 
 * Deployment
+    * How to deploy
+    * How to fork
+    * How to clone
 
 * Content
     * Text
@@ -130,3 +133,39 @@ The validation results are displayed with a snippet of the code to indicate thei
 ### [CSS Validator](<https://jigsaw.w3.org/css-validator/>)
 
 - Validator result for style.css
+
+## Lighthouse Testing
+
+# Deployment
+## How to deploy
+
+Website deployment is the process of making a website live and accessible on the internet for people to visit.
+
+1. Log into GitHub.
+2. Locate repository (left-side or top-right icon and then on "Your repositories").
+3. Select repository and navigate to "Settings" on the horizontal bar.
+4. Open the "Pages" menu and select "main" for the branch.
+5. The page will refresh with a link to the deployed website.
+6. It may not go live for a few minutes, refresh the page to update the link.
+7. Once deployed, the live website will automatically update when any changes are pushed to the main branch.
+
+## How to fork
+
+Forking allows you to create a copy of the original repository in your own GitHub account. This enables you to make changes to the code without affecting the original code.
+
+1. Log into GitHub
+2. Locate repository and select the repository.
+3. Select the "Fork" button near the top-right.
+4. You should now have a new copy of the original repository in your own GitHub account.
+
+## How to clone
+
+Clowning allows you to make an exact copy of a code repository, usually for collaboration or to work on different features independently.
+
+1. Log into GitHub
+2. Locate repository and select the repository.
+3. Click the green "<> Code" button.
+4. If you want to clone using HTTPS, select the copy button in the HTTPS menu.
+5. Open Git Bash
+6. Change the current working directory to the location where you want your cloned directory to be.
+7. Type "git clone", and then paste the URL you copied earlier and press "Enter".
