@@ -14,45 +14,48 @@ This project will have real word value in the near future as it will be used to 
 
 # Table of contents:
 
-* User Demographic
+* [User Demographic](https://github.com/Tekali7/IlBelPaese#user-demographic)
 
-* User Experience
-    * User stories
-        * First Time Visitor Goals
-        * Returning Visitor Goals
-        * Frequent User Goals
+* [User Experience](https://github.com/Tekali7/IlBelPaese#user-experience)
+    * [User stories](https://github.com/Tekali7/IlBelPaese#user-stories)
+        * [First Time Visitor Goals](https://github.com/Tekali7/IlBelPaese#a-first-time-visitor-goals)
+        * [Returning Visitor Goals](https://github.com/Tekali7/IlBelPaese#b-returning-visitor-goals)
+        * [Frequent User Goals](https://github.com/Tekali7/IlBelPaese#c-frequent-user-goals)
 
-* Features
-    * Hero
-    * Navigation
-    * Homepage
-    * Menu
-    * Contact
-    * Form
-    * Footer
-    * Future implementations
+* [Features](https://github.com/Tekali7/IlBelPaese#features)
+    * [Hero](https://github.com/Tekali7/IlBelPaese#hero)
+    * [Navigation](https://github.com/Tekali7/IlBelPaese#navigation)
+    * [Homepage](https://github.com/Tekali7/IlBelPaese#homepage)
+    * [Menu](https://github.com/Tekali7/IlBelPaese#menu)
+    * [Contact](https://github.com/Tekali7/IlBelPaese#contact)
+    * [Form](https://github.com/Tekali7/IlBelPaese#form)
+    * [Footer](https://github.com/Tekali7/IlBelPaese#footer)
+    * [Future implementations](https://github.com/Tekali7/IlBelPaese#future-implementations)
 
-* Technology
-    * Languages
-    * Frameworks, Libraries and Programs
+* [Technology](https://github.com/Tekali7/IlBelPaese#technology)
+    * [Languages](https://github.com/Tekali7/IlBelPaese#languages)
+    * [Frameworks, Libraries and Programs](https://github.com/Tekali7/IlBelPaese#frameworks-libraries-and-programs)
 
-* Typography, Color scheme and Wireframes
+* [Design](https://github.com/Tekali7/IlBelPaese#design)
+    * [Typography](https://github.com/Tekali7/IlBelPaese#typography)
+    * [Color scheme](https://github.com/Tekali7/IlBelPaese#color-scheme)
+    * [Wireframes](https://github.com/Tekali7/IlBelPaese#wireframes)
 
-* Testing
-    * Validator Testing
-        * W3C HTML Validator
-        * W3C CSS Validator
-    * Lighthouse Testing
-    * Manual Testing
-        * Features Testing
-        * Device Testing
-        * Browser Compatibility
-    * Fixed Bugs
+* [Testing](https://github.com/Tekali7/IlBelPaese#testing)
+    * [Validator Testing](https://github.com/Tekali7/IlBelPaese#validator-testing)
+        * [W3C HTML Validator]()
+        * [W3C CSS Validator]()
+    * [Lighthouse Testing](https://github.com/Tekali7/IlBelPaese#lighthouse-testing)
+    * [Manual Testing](https://github.com/Tekali7/IlBelPaese#manual-testing)
+        * [Features Testing](https://github.com/Tekali7/IlBelPaese#features-testing)
+        * [Device Testing](https://github.com/Tekali7/IlBelPaese#device-testing)
+        * [Browser Compatibility](https://github.com/Tekali7/IlBelPaese#browser-compatibility)
+    * [Fixed Bugs](https://github.com/Tekali7/IlBelPaese#fixed-bugs)
 
-* Deployment
-    * How to Deploy
-    * How to Fork
-    * How to Clone
+* [Deployment](https://github.com/Tekali7/IlBelPaese#deployment)
+    * [How to Deploy](https://github.com/Tekali7/IlBelPaese#how-to-deploy)
+    * [How to Fork](https://github.com/Tekali7/IlBelPaese#how-to-fork)
+    * [How to Clone](https://github.com/Tekali7/IlBelPaese#how-to-clone)
 
 * Content
     * Text
@@ -156,6 +159,7 @@ Future implementations for this website are.
 ## Frameworks, Libraries and Programs
 
 - IDE: [Visual Studio Code](<https://code.visualstudio.com/>)
+- Version Control: [Git](<https://gitforwindows.org/>)
 - Repository: [GitHub](<https://github.com/Tekali7/IlBelPaese>)
 - Image converter: [Convertio](<https://convertio.co/de/jpg-webp/>)
 - Image compression: [Tinypng](<https://tinypng.com/>)
@@ -163,7 +167,7 @@ Future implementations for this website are.
 - Wireframe: [Balsamiq](<https://balsamiq.com/>)
 - Fonts: [Google Fonts](<https://fonts.google.com/>)
 
-# Typography, Color scheme and Wireframes
+# Design
 
 ## Typography
 
@@ -194,7 +198,7 @@ The color scheme was chosen to represent italys flag colors, except for the red 
 
 The validation results are displayed with a snippet of the code to indicate their association with the respective page.
 
-### [HTML Validator](<https://validator.w3.org/#validate_by_uri>)
+### HTML Validator
 
 - Validator result for index.html
 ![Validation result index page](assets/readme-imgs/w3c-validation-index-page.webp)
@@ -205,7 +209,7 @@ The validation results are displayed with a snippet of the code to indicate thei
 - Validator result for contact.html
 ![Validation result contact page](assets/readme-imgs/w3c-validation-contact-page.webp)
 
-### [CSS Validator](<https://jigsaw.w3.org/css-validator/>)
+### CSS Validator
 
 - Validator result for style.css
 ![Validator result stylesheet](assets/readme-imgs/w3c-validation-stylesheet.webp)
